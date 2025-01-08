@@ -7,8 +7,7 @@ touch ReadMe.md
 git add .
 git commit -m "Commited Message"
 git status
-git push
-
+git push 
 
 ## Tip 2: create a new repository on the command line
 echo "# DemoApp" >> README.md
