@@ -19,6 +19,6 @@ git remote add origin https://github.com/AXB2024/DemoApp.git
 git push -u origin main  
 
 ## Tip 3: Rebase changes from Remote Repository
-git pull
-git fetch 
-git rebase
+git pull  
+git fetch   
+git rebase  
